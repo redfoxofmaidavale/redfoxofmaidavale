@@ -1,19 +1,19 @@
 
 # Welcome to Marin Sulollari
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discoverwildlife.com%2Fanimal-facts%2Fmammals%2Funderstand-fox-behaviour&psig=AOvVaw1q2Uib8yaEmzRnhP8c-9Nr&ust=1712025686923000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjlnOn-n4UDFQAAAAAdAAAAABAE)
+![Profile Picture](https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2023/04/Untitled-683-%C3%97-1024px-1024-%C3%97-683px-36.jpg.webp)
 
 ## About Me
 
-Hi there! I'm [Marin], a [Software Engineer] from [London ]. I'm passionate about [Film and IT]. 
+Hi there! I'm [Marin], a [Software Engineering ] from [London ]. I'm passionate about [Coding,Film and Sports]. 
 
 ## My Skills
 
-- **Programming Languages:** Python, JavaScript, HTML/CSS
+- **Programming Languages:** Python, JavaScript, HTML, CSS
 
 ## My Projects
 
-- [Project 1](https://github.com/redfoxofmaidavale/byb_project): Brief description of project 1.
+- [Project 1](https://github.com/redfoxofmaidavale/byb_project): Git Hub.
 
 ## Let's Connect!
 
